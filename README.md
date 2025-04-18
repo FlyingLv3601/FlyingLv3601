@@ -1,3 +1,4 @@
+<div style="text-align:center;">
 <p>We are all just uglier cats.</p>  
 <p>Nous sommes tous simplement des chats plus laids.</p>  
 <p>Wir sind einfach nur hässlichere Katzen.</p>  
@@ -18,3 +19,5 @@
 <p>Ми всі просто потворніші коти.</p>  
 <p>Vi är alla bara fulare katter.</p>  
 <p>We zijn allemaal gewoon lelijkere katten.</p>
+
+</div>
